@@ -6,3 +6,4 @@ build/
 *.fits
 gifs/
 frames_*/
+*.un~
